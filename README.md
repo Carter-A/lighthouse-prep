@@ -1,1 +1,1 @@
-# lighthouse-prep
+# LightHouse Labs Prep Work
